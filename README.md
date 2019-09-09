@@ -1,2 +1,2 @@
-# PST-Web-Interface
-web interface for the Phase Stretch Transform algorithm, created in Professor Bahram Jalali's lab at UCLA in 2017
+# Phase Stretch Transform Web Interface
+Web interface for the Phase Stretch Transform edge detection algorithm  (https://github.com/JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform) created using a LAMP stack, AJAX, Python that allows users to upload custom images, interact in real time with the Photonics Laboratory’s edge detection algorithm by modifying the algorithm’s parameters, and save or share their creations.
